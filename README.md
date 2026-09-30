@@ -10,18 +10,18 @@
 
 <a href="https://www.linkedin.com/in/mh-dadgostar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/mh.fullstack.dev/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://t.me/BlackEagle256"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/Terminal2002"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:mohammadhoseindadgostr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/BlackEagle256?style=for-the-badge&color=A78BFA&logo=github&label=Followers&labelColor=161B22" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BlackEagle256&label=Public%20Repos&query=public_repos&color=A78BFA&style=for-the-badge&logo=github&labelColor=161B22" />
-<img src="https://komarev.com/ghpvc/?username=BlackEagle256&color=a78bfa&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/MHDadgostar?style=for-the-badge&color=A78BFA&logo=github&label=Followers&labelColor=161B22" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MHDadgostar&label=Public%20Repos&query=public_repos&color=A78BFA&style=for-the-badge&logo=github&labelColor=161B22" />
+<img src="https://komarev.com/ghpvc/?username=MHDadgostar&color=a78bfa&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/divider.svg" width="100%" height="6px">
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/divider.svg" width="100%" height="6px">
 
 ## 🚀 About Me
 
@@ -37,25 +37,25 @@ focus:
   - 🤝 Open to collaborating on meaningful web, mobile & AI projects
 ```
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/divider.svg" width="100%" height="6px">
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/divider.svg" width="100%" height="6px">
 
 <div align="center">
 
 ### 💻 What I'm Building
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/terminal.svg" width="640" alt="Animated terminal" />
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/terminal.svg" width="640" alt="Animated terminal" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/divider.svg" width="100%" height="6px">
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/divider.svg" width="100%" height="6px">
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/timeline.svg" width="100%" alt="Dev journey timeline" />
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/timeline.svg" width="100%" alt="Dev journey timeline" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/divider.svg" width="100%" height="6px">
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/divider.svg" width="100%" height="6px">
 
 ## 🛠️ Tech Stack
 
@@ -79,50 +79,50 @@ focus:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/divider.svg" width="100%" height="6px">
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/divider.svg" width="100%" height="6px">
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/radar.svg" width="440" alt="Skill radar chart" />
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/radar.svg" width="440" alt="Skill radar chart" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/divider.svg" width="100%" height="6px">
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/divider.svg" width="100%" height="6px">
 
 ## 📌 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/BlackEagle256/DeepLearning-miniProject">🧪 Surrogate Models for Composites</a></h3>
-<img src="https://img.shields.io/github/stars/BlackEagle256/DeepLearning-miniProject?style=flat-square&color=A78BFA&labelColor=161B22" /> <img src="https://img.shields.io/github/languages/top/BlackEagle256/DeepLearning-miniProject?style=flat-square&color=A78BFA&labelColor=161B22" />
+<h3><a href="https://github.com/MHDadgostar/DeepLearning-miniProject">🧪 Surrogate Models for Composites</a></h3>
+<img src="https://img.shields.io/github/stars/MHDadgostar/DeepLearning-miniProject?style=flat-square&color=A78BFA&labelColor=161B22" /> <img src="https://img.shields.io/github/languages/top/BlackEagle256/DeepLearning-miniProject?style=flat-square&color=A78BFA&labelColor=161B22" />
 <p>An interpretable, overfitting-resistant ML system for small experimental datasets — cross-validation, uncertainty analysis, SHAP/LIME, Optuna, statistical testing, and MLflow tracking.</p>
 <p><code>Python</code> <code>Machine Learning</code> <code>XAI</code> <code>MLflow</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/BlackEagle256/RealTimeChat">💬 Real-Time Chat Application</a></h3>
-<img src="https://img.shields.io/github/stars/BlackEagle256/RealTimeChat?style=flat-square&color=A78BFA&labelColor=161B22" /> <img src="https://img.shields.io/github/languages/top/BlackEagle256/RealTimeChat?style=flat-square&color=A78BFA&labelColor=161B22" />
+<h3><a href="https://github.com/MHDadgostar/RealTimeChat">💬 Real-Time Chat Application</a></h3>
+<img src="https://img.shields.io/github/stars/MHDadgostar/RealTimeChat?style=flat-square&color=A78BFA&labelColor=161B22" /> <img src="https://img.shields.io/github/languages/top/BlackEagle256/RealTimeChat?style=flat-square&color=A78BFA&labelColor=161B22" />
 <p>A full-stack chat platform with WebSockets, JWT authentication, user profiles, message history, Redis-backed channels, and optional encrypted messaging.</p>
 <p><code>React</code> <code>Django</code> <code>WebSocket</code> <code>Redis</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/BlackEagle256/stripe-django-payments">💳 Django Stripe Payments</a></h3>
-<img src="https://img.shields.io/github/stars/BlackEagle256/stripe-django-payments?style=flat-square&color=A78BFA&labelColor=161B22" /> <img src="https://img.shields.io/github/languages/top/BlackEagle256/stripe-django-payments?style=flat-square&color=A78BFA&labelColor=161B22" />
+<h3><a href="https://github.com/MHDadgostar/stripe-django-payments">💳 Django Stripe Payments</a></h3>
+<img src="https://img.shields.io/github/stars/MHDadgostar/stripe-django-payments?style=flat-square&color=A78BFA&labelColor=161B22" /> <img src="https://img.shields.io/github/languages/top/BlackEagle256/stripe-django-payments?style=flat-square&color=A78BFA&labelColor=161B22" />
 <p>A clean Stripe Checkout integration for Django with success/cancellation flows, reusable structure, and production-oriented configuration guidance.</p>
 <p><code>Python</code> <code>Django</code> <code>Stripe</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/BlackEagle256/Deep-Image-Classifier-CNN">🖼️ CNN Image Classifier</a></h3>
-<img src="https://img.shields.io/github/stars/BlackEagle256/Deep-Image-Classifier-CNN?style=flat-square&color=A78BFA&labelColor=161B22" /> <img src="https://img.shields.io/github/languages/top/BlackEagle256/Deep-Image-Classifier-CNN?style=flat-square&color=A78BFA&labelColor=161B22" />
+<h3><a href="https://github.com/MHDadgostar/Deep-Image-Classifier-CNN">🖼️ CNN Image Classifier</a></h3>
+<img src="https://img.shields.io/github/stars/MHDadgostar/Deep-Image-Classifier-CNN?style=flat-square&color=A78BFA&labelColor=161B22" /> <img src="https://img.shields.io/github/languages/top/BlackEagle256/Deep-Image-Classifier-CNN?style=flat-square&color=A78BFA&labelColor=161B22" />
 <p>A deep-learning image classification project focused on building and training convolutional neural networks.</p>
 <p><code>Python</code> <code>Deep Learning</code> <code>CNN</code></p>
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/BlackEagle256/BlackEagle256/main/assets/divider.svg" width="100%" height="6px">
+<img src="https://raw.githubusercontent.com/MHDadgostar/MHDadgostar/main/assets/divider.svg" width="100%" height="6px">
 
 ## 🤝 Let's Connect
 
